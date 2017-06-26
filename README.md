@@ -14,7 +14,12 @@ Rename the Repo and Navigate into it
 
 ``cd php-api-starter-kit``
 
-## 3. Start the Server
+## 3. Install the dependencies
+Install the Libraries
+
+``composer install``
+
+## 4. Start the Server
 
 ``composer start``
 
