@@ -1,4 +1,4 @@
-# PHP API for Aroliant's API Applications
+# PHP API Starter
 
 ## Requirements
 
